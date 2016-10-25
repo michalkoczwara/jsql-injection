@@ -1,10 +1,10 @@
 {
     "version": "0.77",
     "news": [
-        "[Roadmap] MySQL error based injection using BIGINT and overflow, MS-Access database, WAF tamper, Bruteforce of HTTP Auth, Arabic translation, Command line interface",
+        "[Roadmap] MS-Access database, WAF tamper, Bruteforce of HTTP Auth, Arabic translation, Command line interface, MySQL error based injection using BIGINT and overflow",
+        "[In progress] 12% of the application translated to russian thanks to the community, GUI compatibility with Right To Left languages like Arabic",
         "[Feature] Help the community and translate jSQL into your language. Click on the top right button to show the advanced settings and open menu Community, choose a language using 'I help translate jSQL' and translate some text then click on Send. Your translation will be integrated to the next release by the developer",
-        "[In progress] 12% of the application translated to russian thanks to the community, also GUI compatibility with Right To Left languages like Arabic",
-        "[Swarming] You can contact the developer for any help with Burp integration and custom development for CTF events",
+        "[Swarm] Contact the developer for any help with Burp integration and custom development for CTF events",
     ],
     "commit": [
         "",
